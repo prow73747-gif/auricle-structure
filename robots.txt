@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://prow73747-gif.github.io/ear-structure/sitemap.xml
